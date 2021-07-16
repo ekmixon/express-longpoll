@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "eventemitter2": "3.0.0",
+    "eventemitter2": "6.4.4",
     "lodash": ">=4.17.5"
   },
   "devDependencies": {
