@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "chai-http": "^2.0.1",
+    "chai-http": "^5.1.2",
     "express": "^4.14.1",
     "mocha": "^6.2.2"
   }
